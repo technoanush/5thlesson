@@ -1,0 +1,20 @@
+.container{
+	margin: auto;
+	width: 320px;
+	height: 140px;
+	border: solid;
+	border-color: red;
+	border-radius: 30px;
+	border-width: 1px;
+	text-align: center;
+	position: relative;
+}
+.number{
+	background-color: red;
+	width: 18px;
+	height: 18px;
+	position: absolute;
+	left: 311px;
+	top: 20px;
+	color: white;
+}
